@@ -3,7 +3,7 @@
 An educational project utilizing Object Oriented Programing and Test Driven Development to create a fully-playable web version of the gameshow Family Feud. 
 
 ## Instalation
-Clone the repo - https://github.com/jacobogart/RyanJacob-GameTime.git
+Clone the repo - https://github.com/RyanDBarnett/RyanJacob-GameTime.git
 
 Run `npm install` from the root directory
 
